@@ -1,0 +1,2 @@
+# gazzedestek
+Gazze Destek Projesi
